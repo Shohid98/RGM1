@@ -1,0 +1,9 @@
+{
+  "short_name": "Garments Notebook",
+  "name": "Garments Pro Notebook",
+  "icons": [],
+  "start_url": "index.html",
+  "background_color": "#123c35",
+  "theme_color": "#123c35",
+  "display": "standalone"
+}

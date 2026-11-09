@@ -1,0 +1,24 @@
+{
+  "Cutting": [
+    [
+      "কাটিং বিভাগের প্রধান দায়িত্ব কী?",
+      "What is the main responsibility of the Cutting Department?",
+      "অনুমোদিত প্যাটার্ন ও মার্কার অনুযায়ী নির্ভুলভাবে কাপড় কাটা, সাইজ ও শেড ঠিক রাখা, কাপড়ের অপচয় কমানো এবং সঠিক প্যানেল সুইং বিভাগে সরবরাহ করা।",
+      "To cut fabric accurately according to approved patterns and markers, maintain size and shade consistency, minimize fabric wastage and supply correct panels to sewing."
+    ],
+    [
+      "মার্কার এফিসিয়েন্সি কী এবং কীভাবে হিসাব করা হয়?",
+      "What is Marker Efficiency and how is it calculated?",
+      "মার্কার এরিয়ার কত শতাংশ জায়গা প্যাটার্ন ব্যবহার করেছে, সেটিই মার্কার এফিসিয়েন্সি। সূত্র: (Pattern Area ÷ Marker Area) × 100। প্যাটার্ন এরিয়া ৮০ এবং মার্কার এরিয়া ১০০ হলে এফিসিয়েন্সি ৮০%।",
+      "Marker efficiency is the percentage of marker area occupied by pattern pieces. Formula: (Pattern Area ÷ Marker Area) × 100. If pattern area is 80 and marker area is 100, efficiency is 80%."
+    ]
+  ],
+  "Sewing": [
+    [
+      "সুইং লাইনে Input Quality Check কেন করা হয়?",
+      "Why is an input quality check done on a sewing line?",
+      "কাট প্যানেলের সাইজ, শেড, নাম্বারিং, নচ, ড্রিল মার্ক ও প্যানেলের ত্রুটি যাচাই করতে হয়। ভুল প্যানেল লাইনে ঢুকলে পরবর্তী অপারেশনে defect বাড়ে।",
+      "It verifies cut-panel size, shade, numbering, notches, drill marks and panel defects. Incorrect panels entering the line can create defects in later operations."
+    ]
+  ]
+}
